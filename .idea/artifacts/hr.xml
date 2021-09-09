@@ -1,0 +1,59 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hr">
+    <output-path>$PROJECT_DIR$/out/artifacts/hr</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hr/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hr" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/工具类/bdutils/commons-dbutils-1.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/工具类/c3p0连接池/mchange-commons-java-0.2.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/工具类/c3p0连接池/c3p0-0.9.2-pre5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/mysql-connector-java-8.0.26/mysql-connector-java-8.0.26.jar" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="tomcat-api" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/el-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/jasper.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/jsp-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/catalina.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/ecj-4.20.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/jasper-el.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/jaspic-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/catalina-ha.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/servlet-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-util.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/catalina-ant.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/catalina-ssi.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/websocket-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-cs.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-de.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-es.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-fr.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-ja.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-ko.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-ru.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/annotations-api.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-pt-BR.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/tomcat-i18n-zh-CN.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../IntelliJ_IDEA/apache-tomcat-10.0.10/lib/jakartaee-migration-1.0.0-shaded.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar" />
+        </element>
+      </element>
+      <element id="module-source" name="hr" />
+    </root>
+  </artifact>
+</component>
